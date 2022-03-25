@@ -1,7 +1,5 @@
+![pexels-scott-webb-311458 smaller](https://user-images.githubusercontent.com/93371648/160214314-5216bc5f-e976-49bd-95f2-ef5aaf7074fc.jpg)
 
-
-
-![Coloured grid no border CV](https://user-images.githubusercontent.com/93371648/160214060-77e4a486-8c16-4d03-87d0-73ef6eec60d6.png)
 
 
 **A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
