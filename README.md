@@ -8,6 +8,7 @@ VIEW MY PROJECTS:
 - 👯 {Co:llab} - https://co-llab.netlify.app/ - In my 4 week project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - 👯 Untied -  https://socresources.netlify.app/ - A Bootcamper Resources App for Sharing Code Materials and Support. 
 
+MY STORY:
 
 - 🔭 Recently graduated from the School of Code Bootcamp.
 - 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design and self and team development.
