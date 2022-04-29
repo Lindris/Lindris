@@ -5,8 +5,8 @@
 **A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
 
 VIEW MY PROJECTS:
-- 👯 {Co:llab} - In my 4 week project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment.   View {Co:llab} a Next.js app  here - https://co-llab.netlify.app/
-- 👯 Untied - A Bootcamper Resources App for Sharing Code Materials and Support. View Untied a React.js app here - https://socresources.netlify.app/
+- 👯 {Co:llab} - https://co-llab.netlify.app/ - In my 4 week project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
+- 👯 Untied -  https://socresources.netlify.app/ - A Bootcamper Resources App for Sharing Code Materials and Support. 
 
 
 - 🔭 Recently graduated from the School of Code Bootcamp.
