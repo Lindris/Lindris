@@ -6,7 +6,7 @@
 
 
 - 🔭 Recently graduated from the School of Code Bootcamp.
-- 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development.
+- 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design and self and team development.
 - 👯 In my 4 week project I developed, from ideation to delivery, a responsive web events app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment.
 - 😄 Collaborating in an agile team, pair programming front and back ends, designing user research, user interface, wireframes. Technologies include JavaScript, React, Postman, Next.js, UI libraries, SQL, Heroku, Netlify.   
 - 💬 Now looking for a role creating tech products that make a difference and create impact.
