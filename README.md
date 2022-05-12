@@ -8,11 +8,12 @@
 
 - 👯 {**Co:llab**}- https://co-llab.netlify.app/ - In my 4 week project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - 👯 **Untied** - https://untiedsoc.netlify.app/ In this 1 week end-to-end project, completed when only halfway through Bootcamp, I built a Bootcamper Resources App for sharing coding materials and support. 
+- 👯 **My Colour Flipper** https://my-colour-flipper.netlify.app/ - A web app that changes colour on the click of a button.
 
 **MY STORY:**
 
 - 🔭 Recently graduated from the School of Code Bootcamp.
-- 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design and self and team development.
+- 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design agile working, with team and development.
 - 😄 Collaborating in an agile team, pair programming front and back ends, designing user research, user interface, wireframes. Technologies include JavaScript, React, Postman, Next.js, UI libraries, SQL, Heroku, Netlify.   
 - 💬 Now looking for a role creating tech products that make a difference and create impact.
 - 📫 How to reach me: visit me on linkedIn www.linkedin.com/in/linda-harris-lindris
