@@ -6,9 +6,9 @@
 
 **VIEW MY PROJECTS:**
 
-- 👯 {**Co:llab**} - https://co-llab.netlify.app/ - In my four week project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
-- 👯 **Untied** - https://untiedsoc.netlify.app/ A one week, end-to-end project that was planned, designed and programmed in 4 days, at the halfway-stage through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. 
-- 👯 **My Colour - Flipper** https://my-colour-flipper.netlify.app/ - A web app that changes colour on the click of a button.
+- 👯 {**Co:llab**} - https://co-llab.netlify.app/ - In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
+- 👯 **Untied** - https://untiedsoc.netlify.app/ A one week, end-to-end team project that was planned, designed and programmed in 4 days, whilst only halfway  through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. 
+- 👯 **My Colour - Flipper** https://my-colour-flipper.netlify.app/ - A cool web app that changes colour on the click of a button.
 
 **MY STORY:**
 
