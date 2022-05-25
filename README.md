@@ -6,8 +6,8 @@
 
 **VIEW MY PROJECTS:**
 
-- 👯 {**Co:llab**} - https://co-llab.netlify.app/ - In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
-- 👯 **Untied** - https://untiedsoc.netlify.app/ - A one week, end-to-end team project that was planned, designed and programmed in 4 days, whilst only halfway  through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. 
+- 👯 {**Co:llab**} - https://co-llab.netlify.app/ - In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. View a montage giving an overview with images and summary descriptions in the Project-portfolio repository files.
+- 👯 **Untied** - https://untiedsoc.netlify.app/ - A one week, end-to-end team project that was planned, designed and programmed in 4 days, whilst only halfway  through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. View a montage giving an overview with images and summary descriptions in the Project-portfolio repository files.
 - 👯 **My Colour Flipper** - https://my-colour-flipper.netlify.app/ - A cool web app that changes colour on the click of a button.
 - 👯 **Butterfly Chase** - https://scratch.mit.edu/projects/571467668 - A simple, fun game built using Scratch, during my favourite part of the School of Code recruitment process. This was prior to being selected as one of 190 successful bootcampers chosen from 1800 applicants.
 
