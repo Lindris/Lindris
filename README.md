@@ -7,7 +7,8 @@
 
 **VIEW MY PROJECTS:**
 
-👯 {**Co:llab**} -
+👯 
+🖥️ {**Co:llab**} -
 In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - View app: https://co-llab.netlify.app/  
 - View montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
