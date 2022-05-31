@@ -6,7 +6,7 @@
 
 
 
-**A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
+ ✨ **A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
 
 **VIEW MY PROJECTS:**
 
@@ -20,14 +20,15 @@ This one week end-to-end team project at only the halfway point through Bootcamp
 - View app: https://untiedsoc.netlify.app/  
 - View montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
 
-👯 **My Colour Flipper** -
+🌠 **My Colour Flipper** -
 A cool web app that changes colour on the click of a button.
 - View app: https://my-colour-flipper.netlify.app/ 
 
-👯 **Butterfly Chase** - 
+🎇 **Butterfly Chase** - 
 A simple, fun game built using Scratch, during my favourite part of the School of Code recruitment process. This was prior to being selected as one of 190 successful bootcampers chosen from 1800 applicants.
 - View app: https://scratch.mit.edu/projects/571467668 
 
+🚀**My Colour Flipper** -
 
 **MY STORY:**
 
