@@ -6,7 +6,8 @@
 
 **VIEW MY PROJECTS:**
 
-- 👯 {**Co:llab**} - View app: https://co-llab.netlify.app/  and a montage overview of how this project was built https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
+- 👯 {**Co:llab**} - 
+- View app: https://co-llab.netlify.app/  and a montage overview of how this project was built https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
 - 
 - In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - 👯 **Untied** - https://untiedsoc.netlify.app/ - A one week, end-to-end team project that was planned, designed and programmed in 4 days, whilst only halfway  through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. View a montage giving an overview of how this project was carried out, with images and summary descriptions in the Project-portfolio repository file https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
