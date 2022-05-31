@@ -25,11 +25,11 @@ A simple, fun game built using Scratch, during my favourite part of the School o
 
 **MY STORY:**
 
-- 🔭 Recently graduated from the School of Code Bootcamp.
-- 🌱 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design agile working, with team and personal development.
+- 👩‍🎓 Recently graduated from the School of Code Bootcamp.
+- 🎿 This intensive 16 week course took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design agile working, with team and personal development.
 - 😄 Collaborating in an agile team, pair programming front and back ends, designing user research, user interface, wireframes. Technologies include JavaScript, React, Postman, Next.js, UI libraries, SQL, Heroku, Netlify.   
-- 💬 Now looking for a role creating tech products that make a difference and create impact.
-- 📫 How to reach me: visit me on linkedIn www.linkedin.com/in/linda-harris-lindris
+- 🚀 Now looking for a role creating tech products that make a difference and create impact.
+- ➡️ How to reach me: visit me on linkedIn www.linkedin.com/in/linda-harris-lindris
 
 
 
