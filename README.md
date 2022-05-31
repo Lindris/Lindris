@@ -1,6 +1,7 @@
 ![pexels-scott-webb-311458 smaller](https://user-images.githubusercontent.com/93371648/160214314-5216bc5f-e976-49bd-95f2-ef5aaf7074fc.jpg)
 
-![Group 293](https://user-images.githubusercontent.com/93371648/171173706-54c4fc3b-94dd-4edf-a04f-d82e819c4a1b.png)
+![code icon bigger](https://user-images.githubusercontent.com/93371648/171174030-a82ead0f-ff82-49de-887e-f5e4e3f5da19.png)
+
 
 
 **A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
