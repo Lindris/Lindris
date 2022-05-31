@@ -10,7 +10,6 @@
 
 **VIEW MY PROJECTS:**
 
-👯 
 ![code icon resized2](https://user-images.githubusercontent.com/93371648/171176477-5a6dcccd-d139-40df-95ec-aa55f5f5d508.png) {**Co:llab**} -
 In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - View app: https://co-llab.netlify.app/  
