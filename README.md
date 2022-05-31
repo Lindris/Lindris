@@ -11,7 +11,10 @@ In this four week team project I developed, from ideation to delivery, a respons
 - View app: https://co-llab.netlify.app/  
 - View montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
 
-👯 **Untied** - https://untiedsoc.netlify.app/ - A one week, end-to-end team project that was planned, designed and programmed in 4 days, whilst only halfway  through Bootcamp. Untied is a Bootcamper Resources App for sharing coding materials and support. View a montage giving an overview of how this project was carried out, with images and summary descriptions in the Project-portfolio repository file https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
+👯 **Untied** 
+This one week end-to-end team project at only the halfway point through Bootcamp, I planned, designed and programmed in 4 days a Bootcamper Resources App for sharing coding materials and support.
+- View app: https://untiedsoc.netlify.app/  
+- View montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
 
 👯 **My Colour Flipper** - https://my-colour-flipper.netlify.app/ - A cool web app that changes colour on the click of a button.
 
