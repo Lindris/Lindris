@@ -2,7 +2,8 @@
 
 
 
-![image](https://user-images.githubusercontent.com/93371648/171175624-c358546b-03d0-4473-ad23-a413d99bcdee.png)
+![image](https://user-images.githubusercontent.com/93371648/171176106-199a8d25-d31b-462f-9bd1-f36297a1f9d5.png)
+
 
 
 **A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
