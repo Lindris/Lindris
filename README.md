@@ -9,18 +9,22 @@ In this four week team project I developed, from ideation to delivery, a respons
 - View app: https://co-llab.netlify.app/  
 - View my montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
 
+
 🖥️  **Untied** - 
 This one week end-to-end team project at only the halfway point through Bootcamp, I planned, designed and programmed in 4 days a Bootcamper Resources App for sharing coding materials and support.
 - View app: https://untiedsoc.netlify.app/  
 - View my montage overview of project development: https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
 
+
 🌈 **My Colour Flipper** -
 A cool web app that changes colour on the click of a button.
 - View app: https://my-colour-flipper.netlify.app/ 
 
+
 🦋 **Butterfly Chase** - 
 A simple, fun game built using Scratch, during my favourite part of the School of Code recruitment process. This was prior to being selected as one of 190 successful bootcampers chosen from 1800 applicants.
 - Play game: https://scratch.mit.edu/projects/571467668 
+
 
 
 **MY STORY:**
