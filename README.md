@@ -4,6 +4,11 @@
 
 **VIEW MY PROJECTS:**
 
+🙆🏼‍♀️ **My Portfolio**
+My portfolio website displaying my work and career highlights. This is an evolving project which is continually being adapted to, with new work to be added on an ongoing basis. Keep watching this space!
+- View app: https://portfolio-lh.netlify.app
+
+
 🤝 **{Co:llab}** - 
 In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - View app: https://co-llab.netlify.app/  
