@@ -4,8 +4,8 @@
 
 **VIEW MY PROJECTS:**
 
-🙆🏼‍♀️ **My Portfolio**
-My portfolio website displaying my work and career highlights. This is an evolving project which is continually being adapted to, with new work to be added on an ongoing basis. Keep watching this space!
+🙆🏼‍♀️ **My Portfolio** - 
+A portfolio website displaying my work and career highlights. This is an evolving project which is continually being adapted to, with new work to be added on an ongoing basis. Keep watching this space!
 - View app: https://portfolio-lh.netlify.app
 
 
