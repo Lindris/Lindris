@@ -1,5 +1,5 @@
-  <a href="https://github.com/tinytecher/github-readme-stats"><img alt="Linda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lindris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/tinytecher/github-readme-stats"><img alt="Charlotte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinytecher&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lindris/github-readme-stats"><img alt="Charlotte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lindris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lindris/github-readme-stats"><img alt="Linda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindris&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
