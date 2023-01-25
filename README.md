@@ -1,7 +1,7 @@
  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Charlotte</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from London.</h3>
+<h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Linda</h1>
+<h3 align="center">A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact..</h3>
 
 
 ## 🙋‍♂️ About Me
