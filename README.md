@@ -2,23 +2,24 @@
 
 <h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Linda</h1>
 <h3 align="center">A creative professional who enjoys putting client and user front and centre. 
- I enjoy UX/UI design and software devlopment - designing innovative applications that solve the right user problems and deliver solutions that exceed expectations. 
- 
- Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact..</h3>
+ I enjoy UX/UI design and software devlopment - designing innovative applications that solve the right user problems and deliver solutions that exceed expectations. </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Right now I'm working on a **[React Photography Website](https://covid-19-tracker-e4bda.web.app/)**
-
 - 🌱 I’m currently learning **CSS Animations**
 
 
-- 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/charlotte-forte-a942804a/)**
+- 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/linda-harris-lindris/)**
 
-- 📫 How to reach me **tinytecher@gmail.com**
+- 📫 How to reach me **linda01harris@gmail.com**
 
-- ⚡ Fun facts **I am 4ft 11in, adopt hamsters and love cheese!**
+
+**VIEW MY PROJECTS:**
+
+🙆🏼‍♀️ **Visit My Portfolio** - 
+A portfolio website displaying my work and career highlights. This is a continuously evolving portfolio with new work being added on an ongoing basis. Keep watching this space!
+- View app: https://portfolio-lh.netlify.app
 
 ## 🚀 Languages and Tools:
 
