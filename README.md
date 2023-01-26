@@ -1,4 +1,4 @@
- <a href="#"><img width="100%" height="auto" src="https://ibb.co/R2ZCHF1" height="175px"/></a>
+ <a href="#"><img width="100%" height="auto" src="<a href="https://ibb.co/R2ZCHF1"><img src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>" height="175px"/></a>
 
 <h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Linda</h1>
 <h3 align="center">A creative professional who enjoys putting client and user front and centre. 
