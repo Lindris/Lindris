@@ -1,4 +1,4 @@
- <a href="https://ibb.co/R2ZCHF1"><img width="50% align="center" "src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>
+ <a href="https://ibb.co/R2ZCHF1"><img width="50% "src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop"</a>
  
 <!--  <a href="#"><img width="10px" align="center" src="<a href="https://ibb.co/R2ZCHF1"><img src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>" height="10px"/></a> -->
 
