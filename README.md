@@ -40,16 +40,16 @@ A continually evolving portfolio website of my work and career highlights. Keep 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/tinytecher/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Charlotte's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tinytecher&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/lindris/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Linda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tinytecher&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/lindris/github-readme-stats"><img alt="Linda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tinytecher&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lindris/github-readme-stats"><img alt="Linda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lindris_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/lindris/github-readme-stats"><img alt="Linda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lindris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lindris/github-readme-stats"><img alt="Linda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindris_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
