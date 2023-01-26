@@ -96,7 +96,7 @@ A simple, fun game built using Scratch, during my favourite part of the School o
 
 
 
-**MY STORY:**
+**MY STORY:-**
 
 - 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile working, as well as team and personal development. 
 - 👩‍🏫 Also with exensive client-focused experience in business psychology consulting and training.
