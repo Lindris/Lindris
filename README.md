@@ -2,7 +2,7 @@
 
 <h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Linda</h1>
 <h3 align="center">A creative professional who enjoys putting client and user front and centre. 
- I enjoy UX/UI design and software devlopment - designing innovative applications that solve the right user problems and deliver solutions that exceed expectations. </h3>
+ I have a passion for UX/UI design, research and software development: creating innovative applications that solve the right user problems and deliver solutions that exceed expectations. </h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,7 @@
 **VIEW MY PROJECTS:**
 
 🙆🏼‍♀️ **Visit My Portfolio** - 
-A portfolio website displaying my work and career highlights. This is a continuously evolving portfolio with new work being added on an ongoing basis. Keep watching this space!
+A continually evolving portfolio website of my work and career highlights. Keep watching this space for new work updates on an ongoing basis. !
 - View app: https://portfolio-lh.netlify.app
 
 ## 🚀 Languages and Tools:
