@@ -1,6 +1,6 @@
  <a href="https://ibb.co/R2ZCHF1"><img src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>
  
-<!--  <a href="#"><img width="50%" height="auto" src="<a href="https://ibb.co/R2ZCHF1"><img src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>" height="50px"/></a> -->
+<!--  <a href="#"><img width="50px" height="auto" src="<a href="https://ibb.co/R2ZCHF1"><img src="https://i.ibb.co/nrZDkGT/girl-laptop.png" alt="girl-laptop" border="0"></a>" height="50px"/></a> -->
 
 <h1 text align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'm Linda</h1>
 <h3 align="center">A creative professional who enjoys putting client and user front and centre. 
