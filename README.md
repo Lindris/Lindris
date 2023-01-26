@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **CSS Animations**
-
 
 - 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/linda-harris-lindris/)**
 
