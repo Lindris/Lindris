@@ -10,9 +10,9 @@
 ## 🙋‍♂️ About Me
 
 
-- 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/linda-harris-lindris/)**
+👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/linda-harris-lindris/)**
 
-- 📫 How to reach me **linda01harris@gmail.com**
+📫 How to reach me **linda01harris@gmail.com**
 
 🙆🏼‍♀️ **Visit My Portfolio** - 
 A continually evolving portfolio website of my work and career highlights. 
@@ -54,10 +54,10 @@ Keep watching this space for updates on an ongoing basis. View app: https://port
 <br/>
 <br/>
 
-<a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Linda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Linda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 **VIEW MY PROJECTS:**
 
