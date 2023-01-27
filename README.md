@@ -83,11 +83,11 @@ A simple, fun game built using Scratch, during my favourite part of the School o
 
 
 **MY STORY:-**
--  Working in UX Design and Research 
-- 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile working, as well as some awesome team and personal development. 
+- 😄 Volunteering in UX Design and Research, enjoy user-research and designing for a smooth and easy user experience.
+- 🚀 Seeking an exciting role creating tech products that make a difference and create impact.
+- 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile team working, as well as some awesome team and personal development. Technologies include JavaScript, React, Postman, Next.js, Node.js, UI libraries, SQL, Heroku, Netlify. 
 - 👩‍🏫 Extensive client-focused experience in business psychology consulting and training.
-- 😄 Collaborating in an agile team, pair programming front and back ends, designing user research, user interface, wireframes. Technologies include JavaScript, React, Postman, Next.js, UI libraries, SQL, Heroku, Netlify.   
-- 🚀 Now looking for a role creating tech products that make a difference and create impact.
+
 - ➡️ How to reach me: visit me on linkedIn www.linkedin.com/in/linda-harris-lindris
 
 
