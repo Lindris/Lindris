@@ -57,7 +57,7 @@ Keep watching this space for updates on an ongoing basis.  **https://portfolio-l
 <a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Linda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/> -->
+<br/>
 
 **VIEW MY PROJECTS:**
 
