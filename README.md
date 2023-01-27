@@ -50,7 +50,6 @@ Keep watching this space for updates on an ongoing basis.  **https://portfolio-l
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!-- 
 <br/>
 <br/>
 
