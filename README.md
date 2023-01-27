@@ -58,32 +58,17 @@ Keep watching this space for updates on an ongoing basis. !
 <br/>
 <br/>
 
-<a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Linda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
-
-
-
-**A creative professional who enjoys putting client and user front and centre. Now looking to apply and develop my software engineering and UX/UI design skills in a supportive environment, building great tech products that have a real impact.**
 
 **VIEW MY PROJECTS:**
-
-🙆🏼‍♀️ **My Portfolio** - 
-A portfolio website displaying my work and career highlights. This is an evolving project which is continually being adapted to, with new work to be added on an ongoing basis. Keep watching this space!
-- View app: https://portfolio-lh.netlify.app
-
 
 🤝 **{Co:llab}** - 
 In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - View app: https://co-llab.netlify.app/  
 - View overview montage illustrating my project process: https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
-
-
-🖥️  **Untied** - 
-This one week end-to-end team project at only the halfway point through Bootcamp, I planned, designed and programmed in 4 days a Bootcamper Resources App for sharing coding materials and support.
-- View app: https://untiedsoc.netlify.app/  
-- View overview montage illustrating my project process: https://github.com/Lindris/Project-portfolio/blob/main/Untied-portfolio-images-resized.png
 
 
 🌈 **My Colour Flipper** -
@@ -98,9 +83,9 @@ A simple, fun game built using Scratch, during my favourite part of the School o
 
 
 **MY STORY:-**
-
-- 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile working, as well as team and personal development. 
-- 👩‍🏫 Also with exensive client-focused experience in business psychology consulting and training.
+-  Working in UX Design and Research 
+- 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile working, as well as some awesome team and personal development. 
+- 👩‍🏫 Extensive client-focused experience in business psychology consulting and training.
 - 😄 Collaborating in an agile team, pair programming front and back ends, designing user research, user interface, wireframes. Technologies include JavaScript, React, Postman, Next.js, UI libraries, SQL, Heroku, Netlify.   
 - 🚀 Now looking for a role creating tech products that make a difference and create impact.
 - ➡️ How to reach me: visit me on linkedIn www.linkedin.com/in/linda-harris-lindris
