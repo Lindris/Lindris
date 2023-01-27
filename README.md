@@ -13,7 +13,6 @@
 - 👨‍💻 You can find out more about me here **[Linkedin](https://www.linkedin.com/in/linda-harris-lindris/)**
 
 - 📫 How to reach me **linda01harris@gmail.com**
-- 
 
 🙆🏼‍♀️ **Visit My Portfolio** - 
 A continually evolving portfolio website of my work and career highlights. 
