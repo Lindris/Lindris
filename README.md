@@ -18,7 +18,8 @@
 **VIEW MY PROJECTS:**
 
 🙆🏼‍♀️ **Visit My Portfolio** - 
-A continually evolving portfolio website of my work and career highlights. Keep watching this space for new work updates on an ongoing basis. !
+A continually evolving portfolio website of my work and career highlights. 
+Keep watching this space for updates on an ongoing basis. !
 - View app: https://portfolio-lh.netlify.app
 
 ## 🚀 Languages and Tools:
