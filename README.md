@@ -84,7 +84,8 @@ A simple, fun game built using Scratch, during my favourite part of the School o
 
 
 **MY STORY:-**
-- 😄 Volunteering in UX Design and Research, enjoy user-research and designing for a smooth and easy user experience.
+- 😄 Working as a volunteer in UX design and research, leading user-research and redesigning website for a social enterprise - creating a smooth and enjoyable user experience.
+- 🏆 Studying UX/UI design and accessibility with Interaction Design Foundation - view my distinctions and certificates here: https://www.interaction-design.org/my-private-profile
 - 🚀 Seeking an exciting role creating tech products that make a difference and create impact.
 - 👩‍🎓 Graduated from the intensive 16 week School of Code Bootcamp, which took me from zero to programmer, gaining experience of full stack front and back end development, UX/UI design, agile team working, as well as some awesome team and personal development. Technologies include JavaScript, React, Postman, Next.js, Node.js, UI libraries, SQL, Heroku, Netlify. 
 - 👩‍🏫 Extensive client-focused experience in business psychology consulting and training.
