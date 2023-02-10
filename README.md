@@ -42,7 +42,7 @@ Keep watching this space for updates on an ongoing basis.  **https://portfolio-l
     </a>
 </p> 
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/lindris/github-readme-stats"><img alt="Linda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lindris&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -54,7 +54,7 @@ Keep watching this space for updates on an ongoing basis.  **https://portfolio-l
 <br/>
 
 <a href="https://github.com/lindris/github-readme-activity-graph"><img alt="Linda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lindris&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ -->
 <br/>
 <br/>
 
