@@ -58,27 +58,29 @@ Keep watching this space for updates on an ongoing basis.  **https://portfolio-l
 <br/>
 <br/>
 
-**VIEW MY PROJECTS:**
+**VIEW MY PROJECTS:**  <br>
 
 👩‍ **My Portfolio Website**
 Visit my portfolio site and browse through my work and find out about my evolving career:
-- https://portfolio-lh.netlify.app/
+- https://portfolio-lh.netlify.app/   
+<br>
 
 🤝 **{Co:llab}** - 
 In this four week team project I developed, from ideation to delivery, a responsive web events planning app to enable Bootcamp graduates to continue to meet and code collaboratively in a supportive environment. 
 - View app: https://co-llab.netlify.app/  
 - View overview montage illustrating my project process: https://github.com/Lindris/Project-portfolio/blob/main/Co.llab-portfolio-images-resized.png
-
+<br>
 
 🌈 **My Colour Flipper** -
 A cool web app that changes colour on the click of a button.
 - View app: https://my-colour-flipper.netlify.app/ 
-
+<br>
 
 🦋 **Butterfly Chase** - 
 A simple, fun game built using Scratch, during my favourite part of the School of Code recruitment process. This was prior to being selected as one of 190 successful bootcampers chosen from 1800 applicants.
 - Play game: https://scratch.mit.edu/projects/571467668 
-
+<br>
+<br>
 
 
 **MY STORY:-**
